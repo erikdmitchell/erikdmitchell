@@ -8,11 +8,13 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=erikdmitchell&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikdmitchell&show_icons=true&theme=dark)](https://github.com/erikdmitchell/erikdmitchell)
+![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=erikdmitchell&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikdmitchell&show_icons=true&theme=dark)](https://github.com/erikdmitchell/erikdmitchell)
 
 ## &#128223; Social
 
-[![Facebook](/icons/facebook-brands.svg)](https://facebook/erikdmitchell)
-[![Twitter](/icons/twitter-brands.svg)](https://twitter.com/erikdmitchell)
-[![Instagram](/icons/instagram-brands.svg)](https://instagram/erikdmitchell)
-[![LinkedIn](/icons/linkedin-brands.svg)](https://linkedin/erikdmitchell)
+[![Facebook](/icons/facebook.svg)](https://facebook/erikdmitchell)
+[![Twitter](/icons/twitter.svg)](https://twitter.com/erikdmitchell)
+[![Instagram](/icons/instagram.svg)](https://instagram/erikdmitchell)
+[![LinkedIn](/icons/linkedin.svg)](https://linkedin/erikdmitchell)
