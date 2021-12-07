@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/erikdmitchell/erikdmitchell/main/icons/em-cheers.jpeg "Header")](https://erikmitchell.net/)
+[![Header](/icons/em-cheers.jpeg "Header")](https://erikmitchell.net/)
 
 > Father, web developer, cyclist and all around rugged man.
 
@@ -12,7 +12,7 @@
 
 ## &#128223; Social
 
-[![Facebook](https://raw.githubusercontent.com/erikdmitchell/erikdmitchell/main/icons/facebook-brands.svg)](https://facebook/erikdmitchell)
-[![Twitter](https://raw.githubusercontent.com/erikdmitchell/erikdmitchell/main/icons/twitter-brands.svg)](https://twitter.com/erikdmitchell)
-[![Instagram](https://raw.githubusercontent.com/erikdmitchell/erikdmitchell/main/icons/instagram-brands.svg)](https://instagram/erikdmitchell)
-[![LinkedIn](https://raw.githubusercontent.com/erikdmitchell/erikdmitchell/main/icons/linkedin-brands.svg)](https://linkedin/erikdmitchell)
+[![Facebook](/icons/facebook-brands.svg)](https://facebook/erikdmitchell)
+[![Twitter](/icons/twitter-brands.svg)](https://twitter.com/erikdmitchell)
+[![Instagram](/icons/instagram-brands.svg)](https://instagram/erikdmitchell)
+[![LinkedIn](/icons/linkedin-brands.svg)](https://linkedin/erikdmitchell)
