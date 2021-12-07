@@ -14,7 +14,7 @@
 
 ## &#128223; Social
 
-[![Facebook](/icons/facebook.svg)](https://facebook/erikdmitchell)
-[![Twitter](/icons/twitter.svg)](https://twitter.com/erikdmitchell)
-[![Instagram](/icons/instagram.svg)](https://instagram/erikdmitchell)
-[![LinkedIn](/icons/linkedin.svg)](https://linkedin/erikdmitchell)
+[![Facebook](/icons/facebook.png)](https://facebook/erikdmitchell)
+[![Twitter](/icons/twitter.png)](https://twitter.com/erikdmitchell)
+[![Instagram](/icons/instagram.png)](https://instagram/erikdmitchell)
+[![LinkedIn](/icons/linkedin.png)](https://linkedin/erikdmitchell)
